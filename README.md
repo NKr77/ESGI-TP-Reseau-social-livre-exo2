@@ -1,4 +1,4 @@
-# API Réseau social (ESGI - Rendu Exercice 2)
+# API Réseau social de livres (ESGI - Rendu Exercice 2)
 
 API RESTful développée avec FastAPI simulant un réseau social de partage de livres.
 
